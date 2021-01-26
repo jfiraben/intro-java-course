@@ -1,9 +1,9 @@
 This program was designed to calculate the total cost of a ticket at the museum. Each ticket
 cost depends on the age of the patron. The cost breakdowns are as follows:
 
-   child 0-5: free
-   child 6-17: $2.93
-   adult 18-149: $8.65
+   * child 0-5: free
+   * child 6-17: $2.93
+   * adult 18-149: $8.65
    
 There will be a convenience fee of $0.85 added to the price of the ticket and a sales tax 
 of 10% also added. The program takes in to account the day of the week the patron visited 
